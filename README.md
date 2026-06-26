@@ -6,4 +6,6 @@ We address two complementary tasks:
 
 <img width="13876" height="8644" alt="Image" src="https://github.com/user-attachments/assets/bc59d4b3-62ed-4b8e-be87-04777b194813" />
 
+<img width="1777" height="1761" alt="Image" src="https://github.com/user-attachments/assets/a95af717-0019-4d97-ac73-d6beedb74408" />
+
 
